@@ -1,0 +1,4 @@
+Mika 4.2 1
+Milena 5 1
+Mirko 3.7
+Pera 3.5 6
